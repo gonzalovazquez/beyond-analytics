@@ -7,3 +7,7 @@ Landing page for http://www.beyondanalytics.co/
 ### Deployment
 
 Netlify is used for deployent. It will deploy automatically based on the `master` branch.
+
+#### Development
+
+If you are interested in contributing, please contact gonzalo@usmakestwo.io
